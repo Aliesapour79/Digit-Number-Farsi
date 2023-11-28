@@ -1,4 +1,4 @@
-# Handwritten Farsi Digits Recognition
+# Handwritten Farsi Digits Classification
 
 This is a simple program for recognizing handwritten Farsi digits using a pretrained convolutional neural network. The program consists of two parts: training the model and using it for prediction.
 
